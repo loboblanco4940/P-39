@@ -1,2 +1,2 @@
-# P-39
-auwdnjqwuqhbqwidbqwuidbqidbqwuidbq
+# fruit-ninja
+game by loboblanco
